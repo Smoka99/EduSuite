@@ -26,3 +26,5 @@
 @media(max-width:480px){.footer-top nav{flex-wrap:wrap}.support-card .button{width:100%}}
 
 .support-qr{margin-top:20px;font-size:12px;color:var(--muted)}.support-qr summary{cursor:pointer;color:var(--accent);padding:5px 0}.support-qr summary:focus-visible{outline:3px solid var(--accent);outline-offset:4px}.support-qr img{display:block;background:#fff;border-radius:8px;margin:16px 0;max-width:100%;height:auto}.support-qr p{font-size:12px;margin-bottom:0}
+
+.support-card .support-direct{margin-top:24px;padding-top:20px;border-top:1px solid var(--line)}
