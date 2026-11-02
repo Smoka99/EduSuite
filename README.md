@@ -2,9 +2,9 @@
 
 Strumenti didattici gratuiti di Silvio Munerotto per studiare informatica nel browser.
 
-**[Apri EduSuite](https://smoka99.github.io/EduSuite/)**
+**[Apri EduSuite](https://edutools.it/)**
 
-- [EDUFLOW: diagrammi di flusso e algoritmi](https://smoka99.github.io/EduSuite/eduflow.html)
-- [EDUER: diagrammi Entità-Relazione e database](https://smoka99.github.io/EduSuite/eduer.html)
+- [EDUFLOW: diagrammi di flusso e algoritmi](https://edutools.it/eduflow.html)
+- [EDUER: diagrammi Entità-Relazione e database](https://edutools.it/eduer.html)
 
-[Sitemap del sito](https://smoka99.github.io/EduSuite/sitemap.xml)
+[Sitemap del sito](https://edutools.it/sitemap.xml)
