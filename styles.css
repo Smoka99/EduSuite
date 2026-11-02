@@ -10,3 +10,19 @@
 [data-theme=light] .available .badge{color:#24694e;background:#eaf6f0;border-color:#c5e3d5}
 [data-theme=light] .mini-preview{color:color-mix(in srgb,var(--tool-color) 55%,#12213d)}
 [data-theme=light] .hero-notes b{color:#24694e}
+
+/* Project support */
+.hero-actions{flex-wrap:wrap}
+.support{display:grid;grid-template-columns:1.2fr 1fr;gap:60px;align-items:center;padding:60px 0;border-bottom:1px solid var(--line)}
+.support-copy>p:not(.eyebrow){color:var(--muted);font-size:14px;line-height:1.85;max-width:610px}
+.support-copy .support-note{font-size:12px!important}
+.support-card{padding:28px;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius)}
+.support-heart{display:grid;place-items:center;width:44px;height:44px;border-radius:12px;color:var(--accent);background:var(--raised);font-size:30px;line-height:1}
+.support-card h3{font-size:21px;margin:16px 0 8px;letter-spacing:-.5px}
+.support-card p{font-size:13px;color:var(--muted);margin:0 0 20px}
+.support-card small{display:block;font-size:11px;color:var(--subtle);margin-top:10px}
+.support-card .support-thanks{margin:20px 0 0;padding-top:16px;border-top:1px solid var(--line);font-size:12px}
+@media(max-width:760px){.support{grid-template-columns:1fr;gap:22px;padding:38px 0}.support-card{padding:24px}.header-inner{gap:20px}.header nav{gap:14px}}
+@media(max-width:480px){.footer-top nav{flex-wrap:wrap}.support-card .button{width:100%}}
+
+.support-qr{margin-top:20px;font-size:12px;color:var(--muted)}.support-qr summary{cursor:pointer;color:var(--accent);padding:5px 0}.support-qr summary:focus-visible{outline:3px solid var(--accent);outline-offset:4px}.support-qr img{display:block;background:#fff;border-radius:8px;margin:16px 0;max-width:100%;height:auto}.support-qr p{font-size:12px;margin-bottom:0}
