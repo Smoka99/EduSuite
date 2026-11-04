@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://edutools.it/</loc></url>
-  <url><loc>https://edutools.it/eduer.html</loc></url>
-  <url><loc>https://edutools.it/eduflow.html</loc></url>
+<url><loc>https://edutools.it/</loc><lastmod>2026-11-04</lastmod></url>
+<url><loc>https://edutools.it/eduflow.html</loc><lastmod>2026-11-04</lastmod></url>
+<url><loc>https://edutools.it/eduer.html</loc><lastmod>2026-11-04</lastmod></url>
+<url><loc>https://edutools.it/edusql.html</loc><lastmod>2026-11-04</lastmod></url>
+<url><loc>https://edutools.it/eduweb.html</loc><lastmod>2026-11-04</lastmod></url>
+<url><loc>https://edutools.it/educode.html</loc><lastmod>2026-11-04</lastmod></url>
 </urlset>
